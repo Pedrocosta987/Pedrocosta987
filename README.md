@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Pedro Henrique, estou no terceiro período de Ciência da Computação e meu foco é aprimorar minhas habilidades em desenvolvimento e gestão de código.</h2>
+<h2 align="left">Olá! Sejam bem vindos ao meu Github!</h2>
 
 ###
 
